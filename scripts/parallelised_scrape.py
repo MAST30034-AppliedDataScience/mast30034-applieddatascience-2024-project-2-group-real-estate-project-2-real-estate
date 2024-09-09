@@ -149,7 +149,7 @@ def fetch_rental_data(property_url, property_metadata):
         ]
 
         # Scrape and store property description
-        property_metadata[property_url]['desc'] = bs_object.find("p").get_text(separator='\n').strip()
+        property_metadata[property_url]['desc'] = extract_description(bs_object)
 
 
         # Scrape and store the property type (e.g., house, apartment)
@@ -234,3 +234,34 @@ def fetch_all_rental_data(url_links):
     return property_metadata # Return all the data 
 
 
+
+def extract_description(bs_object):
+    """
+    Extracts and returns the description from the BeautifulSoup object.
+    """
+    try:
+        description_div = (bs_object.find("div", {"class": "css-bq4jj8"})
+                           .find("div", {"class": "noscript-expander-wrapper css-6cl4nz"})
+                           .find("div", {"class": "noscript-expander-content css-1mnayj9"}))
+
+        if not description_div:
+            return ""
+
+        first_unclassified_div = description_div.find("div")
+        if not first_unclassified_div:
+            return ""
+
+        second_unclassified_div = first_unclassified_div.find("div")
+        if not second_unclassified_div:
+            return ""
+
+        description_header = second_unclassified_div.find("h3", {"class": "css-juce83"})
+        description_paragraphs = second_unclassified_div.find_all("p")
+
+        header_text = description_header.text if description_header else ""
+        paragraphs_text = "\n".join(p.text for p in description_paragraphs)
+
+        return f"{header_text}\n{paragraphs_text}".strip()
+    except Exception as e:
+        print(f"Error extracting description: {e}")
+        return ""
