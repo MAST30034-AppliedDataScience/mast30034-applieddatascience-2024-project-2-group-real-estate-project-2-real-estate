@@ -132,6 +132,7 @@ dmypy.json
 data/curated/
 data/raw/
 data/landing/
+data/population/
 
 # OSX .DS_Store file
 .DS_Store

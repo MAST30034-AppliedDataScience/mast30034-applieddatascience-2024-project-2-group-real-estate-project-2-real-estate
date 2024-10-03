@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_224b343f3c0425a31d1229defca3d377 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_224b343f3c0425a31d1229defca3d377" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_224b343f3c0425a31d1229defca3d377 = L.map(
+                "map_224b343f3c0425a31d1229defca3d377",
+                {
+                    center: [-37.85, 144.963],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_2c6988e45007fe78e240848785f1b99a = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_2c6988e45007fe78e240848785f1b99a.addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var marker_f14f8af62168cac92f0485432536009d = L.marker(
+                [-37.838173, 144.992828],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_f4a8e62e51b688efce143281235fa57a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f14f8af62168cac92f0485432536009d.setIcon(icon_f4a8e62e51b688efce143281235fa57a);
+        
+    
+        var popup_97a2b2413b616508a82035374fbee874 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3c1b17c491c4d72bdbc71960e394b34c = $(`<div id="html_3c1b17c491c4d72bdbc71960e394b34c" style="width: 100.0%; height: 100.0%;"><strong>Property:</strong> (Leased) 3 Yarra Street, South Yarra VIC 3141</div>`)[0];
+                popup_97a2b2413b616508a82035374fbee874.setContent(html_3c1b17c491c4d72bdbc71960e394b34c);
+            
+        
+
+        marker_f14f8af62168cac92f0485432536009d.bindPopup(popup_97a2b2413b616508a82035374fbee874)
+        ;
+
+        
+    
+    
+            var circle_4e536bf40626c5a1844d18e6ad30ffb9 = L.circle(
+                [-37.838173, 144.992828],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 500, "stroke": true, "weight": 3}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var marker_8fb864a28e86eaf51028332607cd4fb7 = L.marker(
+                [-37.813134, 144.991197],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_83e6c2e8a719241cbbde1e4ce21017cf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_8fb864a28e86eaf51028332607cd4fb7.setIcon(icon_83e6c2e8a719241cbbde1e4ce21017cf);
+        
+    
+        var popup_3fa1c260da78c68503b0123f83efd4cd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d5dab1dd480a491e1d09aafdb88cef73 = $(`<div id="html_d5dab1dd480a491e1d09aafdb88cef73" style="width: 100.0%; height: 100.0%;"><strong>Hospital:</strong> Victorian Institute of Forensic Mental Health</div>`)[0];
+                popup_3fa1c260da78c68503b0123f83efd4cd.setContent(html_d5dab1dd480a491e1d09aafdb88cef73);
+            
+        
+
+        marker_8fb864a28e86eaf51028332607cd4fb7.bindPopup(popup_3fa1c260da78c68503b0123f83efd4cd)
+        ;
+
+        
+    
+    
+            var marker_7b1b512ea5b8d5292daac1a933daa0b6 = L.marker(
+                [-37.839376, 144.993003],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_819a26f5f7a11d4b5537be0b0d718c32 = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../notebooks/train.jpg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_7b1b512ea5b8d5292daac1a933daa0b6.setIcon(div_icon_819a26f5f7a11d4b5537be0b0d718c32);
+        
+    
+        var popup_e663faf25054fa48c161efd75b26059c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_03a930617b9e0dad5728bb795fb57c7c = $(`<div id="html_03a930617b9e0dad5728bb795fb57c7c" style="width: 100.0%; height: 100.0%;"><strong>Train Station:</strong> South Yarra Railway Station</div>`)[0];
+                popup_e663faf25054fa48c161efd75b26059c.setContent(html_03a930617b9e0dad5728bb795fb57c7c);
+            
+        
+
+        marker_7b1b512ea5b8d5292daac1a933daa0b6.bindPopup(popup_e663faf25054fa48c161efd75b26059c)
+        ;
+
+        
+    
+    
+            var marker_a16cd89e7d918561586d91c2eed74b6c = L.marker(
+                [-37.838353, 144.994321],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_4fe827722210969db3f96f4a5a8d006b = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../data/raw/tram-car.svg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_a16cd89e7d918561586d91c2eed74b6c.setIcon(div_icon_4fe827722210969db3f96f4a5a8d006b);
+        
+    
+        var popup_89be60e0db62f06f00e07116cba3d01b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d08f2f3db6755c19f337a1f7e78ccb51 = $(`<div id="html_d08f2f3db6755c19f337a1f7e78ccb51" style="width: 100.0%; height: 100.0%;"><strong>Tram Station:</strong> 127-South Yarra Railway Station/Toorak Rd</div>`)[0];
+                popup_89be60e0db62f06f00e07116cba3d01b.setContent(html_d08f2f3db6755c19f337a1f7e78ccb51);
+            
+        
+
+        marker_a16cd89e7d918561586d91c2eed74b6c.bindPopup(popup_89be60e0db62f06f00e07116cba3d01b)
+        ;
+
+        
+    
+    
+            var marker_bbc6442fe0a6100d5daa3870ccecc4d9 = L.marker(
+                [-37.823472, 145.048408],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_4139473fa940ee67818c7e5d01387ade = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_bbc6442fe0a6100d5daa3870ccecc4d9.setIcon(icon_4139473fa940ee67818c7e5d01387ade);
+        
+    
+        var popup_576ca07f36e5222d870e8a93984e5eb9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bacf4d44edf61037fbc0a68bf014990d = $(`<div id="html_bacf4d44edf61037fbc0a68bf014990d" style="width: 100.0%; height: 100.0%;"><strong>Property:</strong> 004B/12 Albert Street, Hawthorn East VIC 3123</div>`)[0];
+                popup_576ca07f36e5222d870e8a93984e5eb9.setContent(html_bacf4d44edf61037fbc0a68bf014990d);
+            
+        
+
+        marker_bbc6442fe0a6100d5daa3870ccecc4d9.bindPopup(popup_576ca07f36e5222d870e8a93984e5eb9)
+        ;
+
+        
+    
+    
+            var circle_9a98893ac391e08e479c12090d9aea63 = L.circle(
+                [-37.823472, 145.048408],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 500, "stroke": true, "weight": 3}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var marker_82a50314cfbb8cd44ca46c9ebbe76e98 = L.marker(
+                [-37.825043, 145.022962],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_758d2ece85c25118de1c0a6cb29c069e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_82a50314cfbb8cd44ca46c9ebbe76e98.setIcon(icon_758d2ece85c25118de1c0a6cb29c069e);
+        
+    
+        var popup_8bf5df07598d0c8b25459bef1af67a39 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_459c801e1e7d138d4a8d5d22184fbae6 = $(`<div id="html_459c801e1e7d138d4a8d5d22184fbae6" style="width: 100.0%; height: 100.0%;"><strong>Hospital:</strong> Caritas Christi Hospice</div>`)[0];
+                popup_8bf5df07598d0c8b25459bef1af67a39.setContent(html_459c801e1e7d138d4a8d5d22184fbae6);
+            
+        
+
+        marker_82a50314cfbb8cd44ca46c9ebbe76e98.bindPopup(popup_8bf5df07598d0c8b25459bef1af67a39)
+        ;
+
+        
+    
+    
+            var marker_6ea62e0dbd5f0b8f55c45f4b1b441127 = L.marker(
+                [-37.828298, 145.024973],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_7fce28308244ded449e7d67c0b5617db = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../notebooks/train.jpg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_6ea62e0dbd5f0b8f55c45f4b1b441127.setIcon(div_icon_7fce28308244ded449e7d67c0b5617db);
+        
+    
+        var popup_a5cfe9590dc7160af64733e4c612c06e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9dc54d9d6bd5171dfc74fb8e72100aff = $(`<div id="html_9dc54d9d6bd5171dfc74fb8e72100aff" style="width: 100.0%; height: 100.0%;"><strong>Train Station:</strong> Auburn Railway Station</div>`)[0];
+                popup_a5cfe9590dc7160af64733e4c612c06e.setContent(html_9dc54d9d6bd5171dfc74fb8e72100aff);
+            
+        
+
+        marker_6ea62e0dbd5f0b8f55c45f4b1b441127.bindPopup(popup_a5cfe9590dc7160af64733e4c612c06e)
+        ;
+
+        
+    
+    
+            var marker_afae52a0a2bbb14d23ed389e8b1545fc = L.marker(
+                [-37.82637, 145.036127],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_dd3e29ab78e99dd9784abcb1e6209bf9 = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../data/raw/tram-car.svg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_afae52a0a2bbb14d23ed389e8b1545fc.setIcon(div_icon_dd3e29ab78e99dd9784abcb1e6209bf9);
+        
+    
+        var popup_c0539aeec5b1c4baba8d7bf59344b370 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_991d66d7d41901b5791db810f533b05e = $(`<div id="html_991d66d7d41901b5791db810f533b05e" style="width: 100.0%; height: 100.0%;"><strong>Tram Station:</strong> 37-Tooronga Rd/Riversdale Rd</div>`)[0];
+                popup_c0539aeec5b1c4baba8d7bf59344b370.setContent(html_991d66d7d41901b5791db810f533b05e);
+            
+        
+
+        marker_afae52a0a2bbb14d23ed389e8b1545fc.bindPopup(popup_c0539aeec5b1c4baba8d7bf59344b370)
+        ;
+
+        
+    
+    
+            var marker_8c44cd4f8cd3c641e55d6b6cdcbabd87 = L.marker(
+                [-37.878631, 145.048262],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_970eb7fac3fb9167a937b85324d0b5e2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_8c44cd4f8cd3c641e55d6b6cdcbabd87.setIcon(icon_970eb7fac3fb9167a937b85324d0b5e2);
+        
+    
+        var popup_df00492db6b3be13b28831cb689b1ba0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4995445c9db9d178eced639814d4f54d = $(`<div id="html_4995445c9db9d178eced639814d4f54d" style="width: 100.0%; height: 100.0%;"><strong>Property:</strong> 04/949 Dandenong Road, Malvern East VIC 3145</div>`)[0];
+                popup_df00492db6b3be13b28831cb689b1ba0.setContent(html_4995445c9db9d178eced639814d4f54d);
+            
+        
+
+        marker_8c44cd4f8cd3c641e55d6b6cdcbabd87.bindPopup(popup_df00492db6b3be13b28831cb689b1ba0)
+        ;
+
+        
+    
+    
+            var circle_79609a40862890a016d5ca1d6b13fd31 = L.circle(
+                [-37.878631, 145.048262],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 500, "stroke": true, "weight": 3}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var marker_ad9f6f56ebebb96ffd106f34724a950a = L.marker(
+                [-37.887234, 145.041699],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_a0a591b2e0a4d422a91bbddd62a18b63 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_ad9f6f56ebebb96ffd106f34724a950a.setIcon(icon_a0a591b2e0a4d422a91bbddd62a18b63);
+        
+    
+        var popup_91ed35ab61bcaa0699c04bdd30a02c79 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f22bab2c604320209e48ea7d926795fb = $(`<div id="html_f22bab2c604320209e48ea7d926795fb" style="width: 100.0%; height: 100.0%;"><strong>Hospital:</strong> Caulfield Hospital</div>`)[0];
+                popup_91ed35ab61bcaa0699c04bdd30a02c79.setContent(html_f22bab2c604320209e48ea7d926795fb);
+            
+        
+
+        marker_ad9f6f56ebebb96ffd106f34724a950a.bindPopup(popup_91ed35ab61bcaa0699c04bdd30a02c79)
+        ;
+
+        
+    
+    
+            var marker_bc6c3aa2200fe06ba20a471eea5fa22a = L.marker(
+                [-37.885693, 145.040218],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_c4ba11263531d8317cad52c73a594b76 = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../notebooks/train.jpg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_bc6c3aa2200fe06ba20a471eea5fa22a.setIcon(div_icon_c4ba11263531d8317cad52c73a594b76);
+        
+    
+        var popup_a44f447da0be8cb607d9253743d349b9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a096f3d6473a86969d9e1bcd1b7a56f3 = $(`<div id="html_a096f3d6473a86969d9e1bcd1b7a56f3" style="width: 100.0%; height: 100.0%;"><strong>Train Station:</strong> Caulfield Railway Station</div>`)[0];
+                popup_a44f447da0be8cb607d9253743d349b9.setContent(html_a096f3d6473a86969d9e1bcd1b7a56f3);
+            
+        
+
+        marker_bc6c3aa2200fe06ba20a471eea5fa22a.bindPopup(popup_a44f447da0be8cb607d9253743d349b9)
+        ;
+
+        
+    
+    
+            var marker_b23c9940d79a4323eb9d098c11931509 = L.marker(
+                [-37.878962, 145.043474],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_a24c4c5ea5f53090973181045df18d7d = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../data/raw/tram-car.svg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_b23c9940d79a4323eb9d098c11931509.setIcon(div_icon_a24c4c5ea5f53090973181045df18d7d);
+        
+    
+        var popup_c7cf84f08fd190ed03cbb7279a633327 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_db3170f9bd3fc7f7787a51f804de1ffd = $(`<div id="html_db3170f9bd3fc7f7787a51f804de1ffd" style="width: 100.0%; height: 100.0%;"><strong>Tram Station:</strong> 60-Burke Rd/Waverley Rd</div>`)[0];
+                popup_c7cf84f08fd190ed03cbb7279a633327.setContent(html_db3170f9bd3fc7f7787a51f804de1ffd);
+            
+        
+
+        marker_b23c9940d79a4323eb9d098c11931509.bindPopup(popup_c7cf84f08fd190ed03cbb7279a633327)
+        ;
+
+        
+    
+    
+            var marker_ab0ff14566625452e26dceba6d0aadf6 = L.marker(
+                [-37.807831, 144.96834],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_1f472efd6253a3d08148fb1268947f14 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ab0ff14566625452e26dceba6d0aadf6.setIcon(icon_1f472efd6253a3d08148fb1268947f14);
+        
+    
+        var popup_d72b4313a0a098d72f36ede02b32a2a5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f48661b22ced4055dea52013e91a6d00 = $(`<div id="html_f48661b22ced4055dea52013e91a6d00" style="width: 100.0%; height: 100.0%;"><strong>Property:</strong> 0711/333 Exhibition St, Melbourne VIC 3000</div>`)[0];
+                popup_d72b4313a0a098d72f36ede02b32a2a5.setContent(html_f48661b22ced4055dea52013e91a6d00);
+            
+        
+
+        marker_ab0ff14566625452e26dceba6d0aadf6.bindPopup(popup_d72b4313a0a098d72f36ede02b32a2a5)
+        ;
+
+        
+    
+    
+            var circle_5cadb440a2ff6396bc06377b80ea543d = L.circle(
+                [-37.807831, 144.96834],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 500, "stroke": true, "weight": 3}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var marker_85f804bb05bdf2120240d422b9befd45 = L.marker(
+                [-37.804896, 144.97508],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_7530093d07b45d2d61fe61a1808b80d3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_85f804bb05bdf2120240d422b9befd45.setIcon(icon_7530093d07b45d2d61fe61a1808b80d3);
+        
+    
+        var popup_611315d2538123be8de4cf1d2c9e1b77 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6b84d6f639af1972302a6fef0e150f93 = $(`<div id="html_6b84d6f639af1972302a6fef0e150f93" style="width: 100.0%; height: 100.0%;"><strong>Hospital:</strong> St Vincent's Hospital</div>`)[0];
+                popup_611315d2538123be8de4cf1d2c9e1b77.setContent(html_6b84d6f639af1972302a6fef0e150f93);
+            
+        
+
+        marker_85f804bb05bdf2120240d422b9befd45.bindPopup(popup_611315d2538123be8de4cf1d2c9e1b77)
+        ;
+
+        
+    
+    
+            var marker_1d5164f608184126f58d95e52c6e569a = L.marker(
+                [-37.810392, 144.976847],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_7594f3e0102ba6e0bb62932965a5ce95 = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../notebooks/train.jpg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_1d5164f608184126f58d95e52c6e569a.setIcon(div_icon_7594f3e0102ba6e0bb62932965a5ce95);
+        
+    
+        var popup_4adb54a59014c79bb83b0171efcd4863 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fb52a9fa7e647a6c296c6ccbeb4ddd24 = $(`<div id="html_fb52a9fa7e647a6c296c6ccbeb4ddd24" style="width: 100.0%; height: 100.0%;"><strong>Train Station:</strong> Parliament Railway Station</div>`)[0];
+                popup_4adb54a59014c79bb83b0171efcd4863.setContent(html_fb52a9fa7e647a6c296c6ccbeb4ddd24);
+            
+        
+
+        marker_1d5164f608184126f58d95e52c6e569a.bindPopup(popup_4adb54a59014c79bb83b0171efcd4863)
+        ;
+
+        
+    
+    
+            var marker_1d8df028235254a37e7b7089909103ee = L.marker(
+                [-37.808845, 144.973931],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_eee27cbb0d2526a4add82117848866d2 = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../data/raw/tram-car.svg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_1d8df028235254a37e7b7089909103ee.setIcon(div_icon_eee27cbb0d2526a4add82117848866d2);
+        
+    
+        var popup_760c6a7c8dbf2b6f5da735c65eb1d3b3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_921013d4b92c7d75981781bcc4352b9e = $(`<div id="html_921013d4b92c7d75981781bcc4352b9e" style="width: 100.0%; height: 100.0%;"><strong>Tram Station:</strong> 8-Exhibition St/La Trobe St</div>`)[0];
+                popup_760c6a7c8dbf2b6f5da735c65eb1d3b3.setContent(html_921013d4b92c7d75981781bcc4352b9e);
+            
+        
+
+        marker_1d8df028235254a37e7b7089909103ee.bindPopup(popup_760c6a7c8dbf2b6f5da735c65eb1d3b3)
+        ;
+
+        
+    
+    
+            var marker_2f18fdeebfff3129d13793a903750ed3 = L.marker(
+                [-37.90863, 145.124589],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_2c06bb83a7113188909b0e6f74308d9c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2f18fdeebfff3129d13793a903750ed3.setIcon(icon_2c06bb83a7113188909b0e6f74308d9c);
+        
+    
+        var popup_ec19dee5f4f5eeff1b24c840fd92235f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a2bf7aec7887e9d1ec5de18f365f080c = $(`<div id="html_a2bf7aec7887e9d1ec5de18f365f080c" style="width: 100.0%; height: 100.0%;"><strong>Property:</strong> 1 & 2/23 Koonawarra Street, Clayton VIC 3168</div>`)[0];
+                popup_ec19dee5f4f5eeff1b24c840fd92235f.setContent(html_a2bf7aec7887e9d1ec5de18f365f080c);
+            
+        
+
+        marker_2f18fdeebfff3129d13793a903750ed3.bindPopup(popup_ec19dee5f4f5eeff1b24c840fd92235f)
+        ;
+
+        
+    
+    
+            var circle_efd491e301c0ab11a9a2ad5052e04a82 = L.circle(
+                [-37.90863, 145.124589],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 500, "stroke": true, "weight": 3}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var marker_74bf9916f81a4a28f2909ba071e42305 = L.marker(
+                [-37.910538, 145.12497],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var icon_61e0174ddcefaeba33ec0f1f34919b13 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_74bf9916f81a4a28f2909ba071e42305.setIcon(icon_61e0174ddcefaeba33ec0f1f34919b13);
+        
+    
+        var popup_95a27d445ca2bc62025f5b7d7de1ec1b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bbd53680352824ba6cf164e4be5ac56d = $(`<div id="html_bbd53680352824ba6cf164e4be5ac56d" style="width: 100.0%; height: 100.0%;"><strong>Hospital:</strong> Monash Medical Centre</div>`)[0];
+                popup_95a27d445ca2bc62025f5b7d7de1ec1b.setContent(html_bbd53680352824ba6cf164e4be5ac56d);
+            
+        
+
+        marker_74bf9916f81a4a28f2909ba071e42305.bindPopup(popup_95a27d445ca2bc62025f5b7d7de1ec1b)
+        ;
+
+        
+    
+    
+            var marker_9d80b8a364378c77835a1d7807296577 = L.marker(
+                [-37.911818, 145.134024],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_b965c6784d83f00dbf8403b756d664a8 = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../notebooks/train.jpg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_9d80b8a364378c77835a1d7807296577.setIcon(div_icon_b965c6784d83f00dbf8403b756d664a8);
+        
+    
+        var popup_f863074fb2d9cb4a544dcc9df3fda81e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_115c468e1b79730e0743634620f1dfae = $(`<div id="html_115c468e1b79730e0743634620f1dfae" style="width: 100.0%; height: 100.0%;"><strong>Train Station:</strong> Clayton Railway Station</div>`)[0];
+                popup_f863074fb2d9cb4a544dcc9df3fda81e.setContent(html_115c468e1b79730e0743634620f1dfae);
+            
+        
+
+        marker_9d80b8a364378c77835a1d7807296577.bindPopup(popup_f863074fb2d9cb4a544dcc9df3fda81e)
+        ;
+
+        
+    
+    
+            var marker_49182d88628315e5529f897eb7e91cca = L.marker(
+                [-37.900752, 145.041162],
+                {}
+            ).addTo(map_224b343f3c0425a31d1229defca3d377);
+        
+    
+            var div_icon_f2a6734f69d9ce8c2c9d881abf0869a8 = L.divIcon({"className": "empty", "html": "\u003cdiv\u003e\u003cimg src=\"../data/raw/tram-car.svg\" style=\"width:35px; height:35px;\"\u003e\u003c/div\u003e"});
+            marker_49182d88628315e5529f897eb7e91cca.setIcon(div_icon_f2a6734f69d9ce8c2c9d881abf0869a8);
+        
+    
+        var popup_5c94d96e22600957753687742708a3f9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dd7486be521e3eadee26459e3cdad639 = $(`<div id="html_dd7486be521e3eadee26459e3cdad639" style="width: 100.0%; height: 100.0%;"><strong>Tram Station:</strong> 68-Carnegie/Truganini Rd</div>`)[0];
+                popup_5c94d96e22600957753687742708a3f9.setContent(html_dd7486be521e3eadee26459e3cdad639);
+            
+        
+
+        marker_49182d88628315e5529f897eb7e91cca.bindPopup(popup_5c94d96e22600957753687742708a3f9)
+        ;
+
+        
+    
+</script>
+</html>
