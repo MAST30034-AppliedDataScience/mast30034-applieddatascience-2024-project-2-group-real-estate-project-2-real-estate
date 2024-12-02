@@ -1,0 +1,585 @@
+,variable,correlation
+62,economic: gdp per capita quarterly_first,-0.36152298908621566
+456,a80_dangerous_and_negligent_acts_endangering_people_pc_change,-0.2289481258321346
+297,a80_dangerous_and_negligent_acts_endangering_people_change,-0.22894805896466763
+505,population: 85 and over_pc_change,-0.14452378069341248
+514,birth: afghanistan age_pc_change,-0.13950464584783004
+500,population: 60-64_pc_change,-0.13620784293510202
+28,best_school_number_vce_subjects_first,-0.13031901765106194
+51,water_percentage_first,-0.12791865238399242
+215,birth: wales_pc_first,-0.12446975045793915
+473,c90_other_drug_offences_pc_change,-0.1148143360018956
+314,c90_other_drug_offences_change,-0.11104402102117035
+488,population: 0-4_pc_change,-0.10933600331905959
+372,population: 85 and over_change,-0.1057659229716381
+479,economic: median age of earners_pc_change,-0.1017078041961722
+503,population: 75-79_pc_change,-0.09906339630608352
+546,birth: myanmar_pc_change,-0.09890195670608846
+548,birth: bosnia and herzegovina_pc_change,-0.09770354292481252
+244,birth: sri lanka_pc_first,-0.0961205701176073
+346,economic: median age of earners_change,-0.09460033590660118
+554,birth: cambodia_pc_change,-0.09451996666421951
+367,population: 60-64_change,-0.09394231737451358
+316,d40_public_security_offences_change,-0.09216460198491726
+475,d40_public_security_offences_pc_change,-0.09216458714129068
+112,birth: sri lanka_first,-0.09154105318235448
+551,birth: turkey_pc_change,-0.09015022681459299
+229,birth: chile_pc_first,-0.0895817508081285
+278,studying: secondary government_pc_first,-0.08729096755152678
+550,birth: bangladesh_pc_change,-0.08581160838725475
+304,c10_drug_dealing_and_trafficking_change,-0.08079772672553098
+480,economic: median income_pc_change,-0.08068303039530211
+463,c10_drug_dealing_and_trafficking_pc_change,-0.08065612457176047
+459,b20_property_damage_pc_change,-0.07954845278534373
+299,b10_arson_change,-0.07925532834330191
+458,b10_arson_pc_change,-0.07925480232637325
+534,birth: mauritius_pc_change,-0.07826980861707915
+271,studying: tertiary PT 14-25_pc_first,-0.0782562382590228
+518,birth: nepal_pc_change,-0.07800214772707155
+521,birth: chile_pc_change,-0.07783165801329468
+83,birth: wales_first,-0.07774399846569528
+522,birth: fiji_pc_change,-0.07642032698300755
+541,birth: iran_pc_change,-0.07575999870162071
+533,birth: iraq_pc_change,-0.07565060911979163
+97,birth: chile_first,-0.07559624379862952
+513,birth: egypt_pc_change,-0.07511159315582165
+527,birth: china excludes sars and taiwan_pc_change,-0.07413305738692935
+576,relationships: other related individual_pc_change,-0.07413305738692934
+485,economic: variable interest rate_pc_change,-0.07413305738692921
+511,birth: country of birth not stated_pc_change,-0.07413305738692916
+545,birth: netherlands_pc_change,-0.07413305738692912
+520,birth: england_pc_change,-0.07413305738692909
+483,economic: gini coefficient_pc_change,-0.07413305738692909
+579,relationships: group household_pc_change,-0.07413305738692906
+560,studying: tertiary FT 14-25_pc_change,-0.07413305738692906
+571,studying: secondary total_pc_change,-0.07413305738692906
+575,relationships: defacto_pc_change,-0.07413305738692905
+510,birth: malaysia_pc_change,-0.07413305738692905
+552,birth: canada_pc_change,-0.07413305738692902
+564,studying: tertiary PT 25+_pc_change,-0.07413305738692902
+566,studying: primary government_pc_change,-0.07413305738692902
+538,birth: philippines_pc_change,-0.07413305738692902
+482,economic: top 1% suburb_pc_change,-0.074133057386929
+563,studying: tertiary PT 14-25_pc_change,-0.074133057386929
+530,birth: south africa_pc_change,-0.07413305738692899
+539,birth: vietnam_pc_change,-0.07413305738692899
+559,studying: primary other_pc_change,-0.07413305738692899
+581,relationships: dependent student_pc_change,-0.07413305738692898
+574,relationships: child under 15_pc_change,-0.07413305738692896
+570,studying: secondary government_pc_change,-0.07413305738692896
+561,studying: tertiary FT 25+_pc_change,-0.07413305738692895
+578,relationships: lone persons_pc_change,-0.07413305738692895
+547,birth: united states of america_pc_change,-0.07413305738692894
+565,studying: tafe total_pc_change,-0.07413305738692892
+481,economic: top 5% suburb_pc_change,-0.07413305738692891
+572,studying: tertiary total_pc_change,-0.07413305738692891
+537,birth: india_pc_change,-0.07413305738692891
+543,birth: france_pc_change,-0.0741330573869289
+516,birth: ireland_pc_change,-0.0741330573869289
+580,relationships: married_pc_change,-0.0741330573869289
+536,birth: sri lanka_pc_change,-0.07413305738692888
+569,studying: primary catholic_pc_change,-0.07413305738692888
+509,birth: australia_pc_change,-0.07413305738692888
+582,relationships: lone parents_pc_change,-0.07413305738692887
+544,birth: total_pc_change,-0.07413305738692882
+526,birth: scotland_pc_change,-0.07413305738692882
+555,birth: born elsewhere_pc_change,-0.07413305738692882
+562,studying: primary total_pc_change,-0.07413305738692881
+540,birth: new zealand_pc_change,-0.07413305738692878
+567,studying: secondary catholic_pc_change,-0.07413305738692878
+556,birth: italy_pc_change,-0.07413305738692874
+558,birth: germany_pc_change,-0.07413305738692874
+568,studying: preschool_pc_change,-0.0741330573869287
+517,birth: hong kong sar of china_pc_change,-0.07413305738692866
+573,overseas: 5 years_pc_change,-0.07413305738692864
+484,economic: trimmed mean quarterly_pc_change,-0.07413305738692859
+577,relationships: non dependent child_pc_change,-0.07413305738692832
+549,birth: zimbabwe_pc_change,-0.07396872303076826
+121,birth: netherlands_first,-0.07345037384193284
+553,birth: korea republic of south_pc_change,-0.07341976261563729
+515,birth: thailand_pc_change,-0.07334185368622786
+529,birth: singapore_pc_change,-0.07334185368622766
+305,c20_cultivate_or_manufacture_drugs_change,-0.07232922104336398
+464,c20_cultivate_or_manufacture_drugs_pc_change,-0.0723224494357639
+542,birth: lebanon_pc_change,-0.07170265077510297
+508,birth: papua new guinea_pc_change,-0.07151019787135869
+525,birth: malta_pc_change,-0.06979090921885746
+557,birth: croatia_pc_change,-0.06960496471162513
+531,birth: greece_pc_change,-0.06960496471162503
+528,birth: poland_pc_change,-0.0696049647116247
+22,c90_other_drug_offences_first,-0.06929141644837797
+134,birth: germany_first,-0.06906102689012411
+512,birth: indonesia_pc_change,-0.06880011560475571
+507,birth: wales_pc_change,-0.06877412148677998
+506,birth: brazil_pc_change,-0.06680883170962475
+274,studying: primary government_pc_first,-0.06625466889100953
+300,b20_property_damage_change,-0.06533438135905179
+524,birth: japan_pc_change,-0.06510402552674878
+489,population: 5-9_pc_change,-0.06499612849478463
+123,birth: united states of america_first,-0.06474437009378642
+532,birth: pakistan_pc_change,-0.06320616240778752
+46,total_area_first,-0.06281821395903626
+287,relationships: group household_pc_first,-0.062198114919944536
+105,birth: singapore_first,-0.061644148378503426
+255,birth: united states of america_pc_first,-0.06155289545179606
+180,f90_miscellaneous_offences_pc_first,-0.06146701741385938
+502,population: 70-74_pc_change,-0.06138557125534026
+55,economic: median income_first,-0.06063137894028698
+237,birth: singapore_pc_first,-0.05981652318172981
+228,birth: england_pc_first,-0.05917108322593378
+519,birth: north macedonia_pc_change,-0.05889516667702753
+370,population: 75-79_change,-0.058231685319078616
+523,birth: taiwan_pc_change,-0.05728252745325655
+266,birth: germany_pc_first,-0.056606157027989136
+96,birth: england_first,-0.05342809930163212
+248,birth: new zealand_pc_first,-0.0527550356035234
+21,f90_miscellaneous_offences_first,-0.05247112256007058
+272,studying: tertiary PT 25+_pc_first,-0.050397062070134224
+497,population: 45-49_pc_change,-0.049492273476085036
+57,economic: top 1% suburb_first,-0.04901854845043699
+201,population: 25-29_pc_first,-0.04778189862863418
+261,birth: korea republic of south_pc_first,-0.04629363667900587
+471,f20_transport_regulation_offences_pc_change,-0.04621663070237499
+312,f20_transport_regulation_offences_change,-0.04621251390332432
+355,population: 0-4_change,-0.044327910339936424
+140,studying: tertiary PT 25+_first,-0.043187251082446323
+251,birth: france_pc_first,-0.04249975283711217
+280,studying: tertiary total_pc_first,-0.042273569325000475
+253,birth: netherlands_pc_first,-0.04206276290301934
+235,birth: china excludes sars and taiwan_pc_first,-0.04188195752292159
+195,economic: gdp per capita quarterly_pc_first,-0.04187372985863406
+104,birth: poland_first,-0.041745117858108874
+139,studying: tertiary PT 14-25_first,-0.04155800709011367
+110,birth: mauritius_first,-0.04080328875949747
+181,c90_other_drug_offences_pc_first,-0.040496241149887854
+347,economic: median income_change,-0.03926379800461837
+227,birth: north macedonia_pc_first,-0.03920918731419946
+95,birth: north macedonia_first,-0.03812819240939551
+103,birth: china excludes sars and taiwan_first,-0.037615339285525046
+460,b30_burglary/break_and_enter_pc_change,-0.036955241639556616
+202,population: 30-34_pc_first,-0.03645786597837388
+242,birth: mauritius_pc_first,-0.036230725778664125
+268,studying: tertiary FT 14-25_pc_first,-0.03552910513537769
+128,birth: canada_first,-0.033221001345485245
+234,birth: scotland_pc_first,-0.032599792158183656
+146,studying: secondary government_first,-0.03211683924925283
+33,avg_school_number_vce_subjects_first,-0.031631134013150916
+200,population: 20-24_pc_first,-0.03128214753571933
+30,best_school_median_study_score_first,-0.029387803063283358
+47,developed_area_first,-0.02938635945760665
+56,economic: top 5% suburb_first,-0.029174191506240493
+102,birth: scotland_first,-0.028816487183585145
+48,built_percentage_first,-0.028663108884781085
+129,birth: korea republic of south_first,-0.027985176725648722
+69,population: 30-34_first,-0.0273877524392131
+269,studying: tertiary FT 25+_pc_first,-0.026942520359061542
+90,birth: afghanistan age_first,-0.026838117114699186
+68,population: 25-29_first,-0.026335251037516494
+301,b30_burglary/break_and_enter_change,-0.026259274506604945
+142,studying: primary government_first,-0.026212650194510467
+461,b40_theft_pc_change,-0.025796940292990136
+222,birth: afghanistan age_pc_first,-0.025404946639034233
+172,c20_cultivate_or_manufacture_drugs_pc_first,-0.025392385236891416
+107,birth: greece_first,-0.025388323107977277
+116,birth: new zealand_first,-0.025273435335177622
+221,birth: egypt_pc_first,-0.024526258386114396
+155,relationships: group household_first,-0.02329665112715171
+369,population: 70-74_change,-0.023102708935485317
+246,birth: philippines_pc_first,-0.022653461031817368
+124,birth: bosnia and herzegovina_first,-0.021811718340823887
+498,population: 50-54_pc_change,-0.021126313689616042
+356,population: 5-9_change,-0.020827342789923257
+119,birth: france_first,-0.02050275908560205
+71,population: 40-44_first,-0.019463712520878966
+185,b60_bribery_pc_first,-0.019038573229758833
+239,birth: greece_pc_first,-0.018837048018969568
+52,developed_percentage_first,-0.018805640851647227
+35,avg_school_median_study_score_first,-0.018785774491269596
+70,population: 35-39_first,-0.017399753425072714
+148,studying: tertiary total_first,-0.016665365120241395
+496,population: 40-44_pc_change,-0.016164994035138408
+50,disturbed_percentage_first,-0.01576270192786431
+76,population: 65-69_first,-0.01536495887689546
+159,economic: number of earners_first,-0.01532321127200974
+13,c20_cultivate_or_manufacture_drugs_first,-0.015103188208727076
+77,population: 70-74_first,-0.014705779995330064
+74,population: 55-59_first,-0.014156433774777398
+89,birth: egypt_first,-0.0139018781646853
+184,f10_regulatory_driving_offences_pc_first,-0.013788474822596406
+231,birth: taiwan_pc_first,-0.013464492535665224
+81,population: total persons_first,-0.013370709126197021
+245,birth: india_pc_first,-0.013333519766722965
+73,population: 50-54_first,-0.013308125462986872
+203,population: 35-39_pc_first,-0.012552362365117715
+72,population: 45-49_first,-0.012365793433347913
+66,population: 15-19_first,-0.012305496988377088
+136,studying: tertiary FT 14-25_first,-0.012262160570758402
+78,population: 75-79_first,-0.0116538284575976
+75,population: 60-64_first,-0.011550846548195501
+84,birth: papua new guinea_first,-0.011290342611775365
+260,birth: canada_pc_first,-0.011084773100073903
+49,urban_percentage_first,-0.011084242912584063
+283,relationships: defacto_pc_first,-0.010470702353491802
+65,population: 10-14_first,-0.01026713357516684
+58,economic: gini coefficient_first,-0.009511305111782773
+151,relationships: defacto_first,-0.008538941018557771
+216,birth: papua new guinea_pc_first,-0.008482714962059348
+302,b40_theft_change,-0.008149830268080806
+164,a80_dangerous_and_negligent_acts_endangering_people_pc_first,-0.007790949028057685
+133,birth: croatia_first,-0.007467163621177293
+25,f10_regulatory_driving_offences_first,-0.007356096163345553
+122,birth: myanmar_first,-0.007226567829730214
+67,population: 20-24_first,-0.006784804363209436
+254,birth: myanmar_pc_first,-0.006782405869922109
+199,population: 15-19_pc_first,-0.00625814380299048
+491,population: 15-19_pc_change,-0.006222339280678683
+218,birth: malaysia_pc_first,-0.00584393643195007
+178,e20_breaches_of_orders_pc_first,-0.005472052325921014
+472,f90_miscellaneous_offences_pc_change,-0.005222770591728881
+31,best_school_study_score_over_40_percent_first,-0.005173218846294551
+204,population: 40-44_pc_first,-0.005142070557371288
+20,f20_transport_regulation_offences_first,-0.004985097685997376
+137,studying: tertiary FT 25+_first,-0.00407939563509104
+474,f30_other_government_regulatory_offences_pc_change,-0.0032919447054230357
+157,relationships: dependent student_first,-0.0032135933134730824
+158,relationships: lone parents_first,-0.0031798317216995896
+313,f90_miscellaneous_offences_change,-0.00295299419301243
+364,population: 45-49_change,-0.0027824258837311996
+87,birth: country of birth not stated_first,-0.002731754191835552
+63,population: 0-4_first,-0.002509374550765903
+114,birth: philippines_first,-0.002183671866639082
+113,birth: india_first,-0.0021323146503806883
+64,population: 5-9_first,-0.0018028770953966448
+99,birth: taiwan_first,-0.001430146103263505
+147,studying: secondary total_first,0.00029150475658854625
+156,relationships: married_first,0.0004936864254613749
+98,birth: fiji_first,0.0014824856190598938
+153,relationships: non dependent child_first,0.0015977312294444997
+214,birth: brazil_pc_first,0.0018609077898293599
+219,birth: country of birth not stated_pc_first,0.0019408790275614156
+196,population: 0-4_pc_first,0.002304192508521217
+86,birth: malaysia_first,0.00234496264478778
+291,economic: number of earners_pc_first,0.0024926147384305717
+120,birth: total_first,0.002595747311458412
+315,f30_other_government_regulatory_offences_change,0.002792257733089173
+36,avg_school_study_score_over_40_percent_first,0.003416623527244639
+131,birth: born elsewhere_first,0.0035290208485509672
+225,birth: hong kong sar of china_pc_first,0.003690956306876165
+468,d30_public_nuisance_offences_pc_change,0.004231251961296458
+281,overseas: 5 years_pc_first,0.004955771462893425
+92,birth: ireland_first,0.005041566670696686
+93,birth: hong kong sar of china_first,0.005121248799201076
+501,population: 65-69_pc_change,0.005191948556595921
+138,studying: primary total_first,0.005775415389416999
+490,population: 10-14_pc_change,0.005777257635372679
+160,housing: count_first,0.0063753403307356665
+79,population: 80-84_first,0.0068297720801355115
+150,relationships: child under 15_first,0.007686551299783859
+85,birth: australia_first,0.008233117577743913
+233,birth: malta_pc_first,0.008553197061916096
+309,d30_public_nuisance_offences_change,0.008966268430461255
+126,birth: bangladesh_first,0.010168243021723103
+152,relationships: other related individual_first,0.010389841295707558
+26,b60_bribery_first,0.010654001808980646
+125,birth: zimbabwe_first,0.011077166111939842
+230,birth: fiji_pc_first,0.01168196105111246
+19,e20_breaches_of_orders_first,0.013451865615913033
+144,studying: preschool_first,0.013984227099333288
+106,birth: south africa_first,0.014550820406989608
+179,f20_transport_regulation_offences_pc_first,0.015265917443094228
+495,population: 35-39_pc_change,0.01572730541080643
+462,b50_deception_pc_change,0.015927200810746122
+224,birth: ireland_pc_first,0.016256756693388212
+256,birth: bosnia and herzegovina_pc_first,0.016608005025461798
+209,population: 65-69_pc_first,0.016911135955302675
+363,population: 40-44_change,0.018042130536732648
+41,zoned_school_study_score_over_40_percent_first,0.018290094242198022
+263,birth: born elsewhere_pc_first,0.018850357328924285
+207,population: 55-59_pc_first,0.018957225029827104
+206,population: 50-54_pc_first,0.01910950492805273
+101,birth: malta_first,0.01931496349931959
+499,population: 55-59_pc_change,0.019840484682585927
+5,a80_dangerous_and_negligent_acts_endangering_people_first,0.020661492934780343
+198,population: 10-14_pc_first,0.022826410485016897
+100,birth: japan_first,0.023166548970693448
+88,birth: indonesia_first,0.023322144168743317
+111,birth: samoa_first,0.023349727668668063
+190,economic: top 1% suburb_pc_first,0.02383867311121235
+54,economic: median age of earners_first,0.02419624728258917
+220,birth: indonesia_pc_first,0.024364002606590114
+284,relationships: other related individual_pc_first,0.024364694535059853
+303,b50_deception_change,0.025458789262132377
+53,nature_percentage_first,0.026079180778164884
+365,population: 50-54_change,0.026853623490810753
+149,overseas: 5 years_first,0.027086137658193392
+265,birth: croatia_pc_first,0.02805935154488107
+115,birth: vietnam_first,0.02832917127519261
+454,a50_robbery_pc_change,0.02839100945788357
+290,relationships: lone parents_pc_first,0.028620610332218337
+108,birth: pakistan_first,0.02894316648997019
+44,distance_to_cbd_first,0.02955695701671184
+82,birth: brazil_first,0.029711808973922043
+117,birth: iran_first,0.030073884279847984
+177,e10_justice_procedures_pc_first,0.030807371691701894
+455,"a70_stalking,_harassment_and_threatening_behaviour_pc_change",0.030938258259804476
+141,studying: tafe total_first,0.031739790699263346
+205,population: 45-49_pc_first,0.031771245960256767
+43,crow_distance_to_cbd_first,0.032874496526660794
+38,zoned_school_number_vce_subjects_first,0.03336689920298765
+154,relationships: lone persons_first,0.03461847851223754
+197,population: 5-9_pc_first,0.035929980095760886
+295,a50_robbery_change,0.03615701534502588
+358,population: 15-19_change,0.03635707621495808
+236,birth: poland_pc_first,0.036375439652880454
+289,relationships: dependent student_pc_first,0.03694686857296236
+296,"a70_stalking,_harassment_and_threatening_behaviour_change",0.03748778684224246
+211,population: 75-79_pc_first,0.03751149075103864
+357,population: 10-14_change,0.03786708720103617
+243,birth: samoa_pc_first,0.03796741724649579
+167,b20_property_damage_pc_first,0.03828533065523203
+210,population: 70-74_pc_first,0.038445296981833035
+249,birth: iran_pc_first,0.03852378850328769
+232,birth: japan_pc_first,0.03934305390721857
+535,birth: samoa_pc_change,0.03952025246155935
+362,population: 35-39_change,0.039575320598760386
+270,studying: primary total_pc_first,0.03977796440574233
+45,duration_to_cbd_first,0.040668767958950386
+285,relationships: non dependent child_pc_first,0.04093814594526563
+189,economic: top 5% suburb_pc_first,0.04143081624680813
+193,economic: variable interest rate_pc_first,0.04187372985863384
+192,economic: trimmed mean quarterly_pc_first,0.04187372985863389
+135,studying: primary other_first,0.04213109254747984
+466,d10_weapons_and_explosives_offences_pc_change,0.043164222750326046
+279,studying: secondary total_pc_first,0.043466952503126585
+188,economic: median income_pc_first,0.04348239044432489
+282,relationships: child under 15_pc_first,0.04397211198384916
+257,birth: zimbabwe_pc_first,0.04490475911070344
+208,population: 60-64_pc_first,0.04492355621994712
+247,birth: vietnam_pc_first,0.04513157129048843
+212,population: 80-84_pc_first,0.045660148466206675
+217,birth: australia_pc_first,0.04619439407179158
+307,d10_weapons_and_explosives_offences_change,0.0463439371532006
+191,economic: gini coefficient_pc_first,0.04648431835170055
+238,birth: south africa_pc_first,0.04737397598765119
+161,a20_assault_and_related_offences_pc_first,0.04768309052274285
+15,d10_weapons_and_explosives_offences_first,0.04794170514239423
+18,e10_justice_procedures_first,0.04812357056150154
+163,"a70_stalking,_harassment_and_threatening_behaviour_pc_first",0.04855505964604735
+453,a20_assault_and_related_offences_pc_change,0.04858931114017999
+14,c30_drug_use_and_possession_first,0.04912008829317218
+240,birth: pakistan_pc_first,0.050580402653663446
+288,relationships: married_pc_first,0.05072611258909348
+187,economic: median age of earners_pc_first,0.05137787774472111
+118,birth: lebanon_first,0.05142530213002169
+478,total_crimes_pc_change,0.052300074465758774
+176,d30_public_nuisance_offences_pc_first,0.05352249467437177
+132,birth: italy_first,0.05544920353088218
+368,population: 65-69_change,0.055894317701910196
+258,birth: bangladesh_pc_first,0.05610450021003274
+286,relationships: lone persons_pc_first,0.056632555025359015
+174,d10_weapons_and_explosives_offences_pc_first,0.056784315093153195
+4,"a70_stalking,_harassment_and_threatening_behaviour_first",0.0573289748015376
+32,best_school_percentage_applying_to_victorian_uni_first,0.05802540397667292
+80,population: 85 and over_first,0.058817860537153446
+373,population: total persons_change,0.05891481275484806
+241,birth: iraq_pc_first,0.06062664506394617
+8,b20_property_damage_first,0.06138270540899999
+91,birth: thailand_first,0.06174519796949545
+250,birth: lebanon_pc_first,0.06254607145721133
+173,c30_drug_use_and_possession_pc_first,0.06270321608764057
+143,studying: secondary catholic_first,0.06280596141840798
+130,birth: cambodia_first,0.0633051278120869
+276,studying: preschool_pc_first,0.06331030869858097
+264,birth: italy_pc_first,0.06363175513739812
+223,birth: thailand_pc_first,0.06408816897821093
+294,a20_assault_and_related_offences_change,0.06476595996426361
+366,population: 55-59_change,0.06493704980748023
+109,birth: iraq_first,0.06510380892112913
+504,population: 80-84_pc_change,0.06583348293421787
+3,a50_robbery_first,0.06653180476396137
+273,studying: tafe total_pc_first,0.06778994023172717
+186,total_crimes_pc_first,0.06989596570502213
+262,birth: cambodia_pc_first,0.07232884775718153
+40,zoned_school_median_study_score_first,0.07345450372085702
+2,a20_assault_and_related_offences_first,0.07377451946814134
+487,economic: gdp per capita quarterly_pc_change,0.07413305738691356
+10,b40_theft_first,0.07647440240720006
+27,total_crimes_first,0.07745228682667953
+169,b40_theft_pc_first,0.07759596950254811
+319,total_crimes_change,0.07764305179000291
+183,d40_public_security_offences_pc_first,0.08156545251561893
+94,birth: nepal_first,0.081612136187707
+11,b50_deception_first,0.08175195388154428
+6,other_crimes_against_the_person_first,0.08263617567588302
+492,population: 20-24_pc_change,0.08333561255472917
+39,zoned_school_satisfactory_complete_vce_percent_first,0.08376016443673003
+162,a50_robbery_pc_first,0.08470552701893175
+166,b10_arson_pc_first,0.08505772346953495
+371,population: 80-84_change,0.08522376517480239
+170,b50_deception_pc_first,0.08550825171148344
+165,other_crimes_against_the_person_pc_first,0.08573259788544398
+127,birth: turkey_first,0.08798022057017962
+37,avg_school_percentage_applying_to_victorian_uni_first,0.08847828890564235
+457,other_crimes_against_the_person_pc_change,0.08856299254336876
+467,d20_disorderly_and_offensive_conduct_pc_change,0.08859143867997733
+259,birth: turkey_pc_first,0.0902009648959322
+42,zoned_school_percentage_applying_to_victorian_uni_first,0.09115211007770023
+17,d30_public_nuisance_offences_first,0.09250162860120789
+298,other_crimes_against_the_person_change,0.09333950155320803
+145,studying: primary catholic_first,0.09345850609731753
+252,birth: total_pc_first,0.09408356377488776
+452,housing: count_change,0.09462887966672705
+308,d20_disorderly_and_offensive_conduct_change,0.09477502380885051
+168,b30_burglary/break_and_enter_pc_first,0.09493402739237326
+7,b10_arson_first,0.09537417248810376
+175,d20_disorderly_and_offensive_conduct_pc_first,0.09695873090991705
+12,c10_drug_dealing_and_trafficking_first,0.09839491391471038
+16,d20_disorderly_and_offensive_conduct_first,0.09903867234841669
+226,birth: nepal_pc_first,0.10591639009695317
+359,population: 20-24_change,0.10686713954999316
+583,economic: number of earners_pc_change,0.10711218040683819
+9,b30_burglary/break_and_enter_first,0.10750786717886983
+24,d40_public_security_offences_first,0.1160203866806168
+465,c30_drug_use_and_possession_pc_change,0.11825674239418335
+213,population: 85 and over_pc_first,0.11878831396785802
+306,c30_drug_use_and_possession_change,0.12117585891744755
+29,best_school_satisfactory_complete_vce_percent_first,0.1215649964702949
+451,economic: number of earners_change,0.12208469330738628
+275,studying: secondary catholic_pc_first,0.12449084816031751
+493,population: 25-29_pc_change,0.12621274662373072
+361,population: 30-34_change,0.12785212533339063
+171,c10_drug_dealing_and_trafficking_pc_first,0.12834978581922352
+360,population: 25-29_change,0.1290529603713866
+267,studying: primary other_pc_first,0.13777214032243135
+34,avg_school_satisfactory_complete_vce_percent_first,0.1399645881297864
+494,population: 30-34_pc_change,0.1497607228768252
+310,e10_justice_procedures_change,0.15043626537540083
+469,e10_justice_procedures_pc_change,0.1505033304919945
+277,studying: primary catholic_pc_first,0.1505752144092888
+182,f30_other_government_regulatory_offences_pc_first,0.15602706558915597
+23,f30_other_government_regulatory_offences_first,0.16340052399084654
+476,f10_regulatory_driving_offences_pc_change,0.2037537505519593
+317,f10_regulatory_driving_offences_change,0.20375375284025019
+470,e20_breaches_of_orders_pc_change,0.26829109894892805
+311,e20_breaches_of_orders_change,0.269362914076266
+354,economic: gdp per capita quarterly_change,0.36152298908621566
+351,economic: trimmed mean quarterly_change,0.3615229890862158
+0,year_first,
+1,quarter_first,
+59,economic: trimmed mean quarterly_first,
+60,economic: variable interest rate_first,
+61,economic: gdp quarterly_first,
+194,economic: gdp quarterly_pc_first,
+292,year_change,
+293,quarter_change,
+318,b60_bribery_change,
+320,best_school_number_vce_subjects_change,
+321,best_school_satisfactory_complete_vce_percent_change,
+322,best_school_median_study_score_change,
+323,best_school_study_score_over_40_percent_change,
+324,best_school_percentage_applying_to_victorian_uni_change,
+325,avg_school_number_vce_subjects_change,
+326,avg_school_satisfactory_complete_vce_percent_change,
+327,avg_school_median_study_score_change,
+328,avg_school_study_score_over_40_percent_change,
+329,avg_school_percentage_applying_to_victorian_uni_change,
+330,zoned_school_number_vce_subjects_change,
+331,zoned_school_satisfactory_complete_vce_percent_change,
+332,zoned_school_median_study_score_change,
+333,zoned_school_study_score_over_40_percent_change,
+334,zoned_school_percentage_applying_to_victorian_uni_change,
+335,crow_distance_to_cbd_change,
+336,distance_to_cbd_change,
+337,duration_to_cbd_change,
+338,total_area_change,
+339,developed_area_change,
+340,built_percentage_change,
+341,urban_percentage_change,
+342,disturbed_percentage_change,
+343,water_percentage_change,
+344,developed_percentage_change,
+345,nature_percentage_change,
+348,economic: top 5% suburb_change,
+349,economic: top 1% suburb_change,
+350,economic: gini coefficient_change,
+352,economic: variable interest rate_change,
+353,economic: gdp quarterly_change,
+374,birth: brazil_change,
+375,birth: wales_change,
+376,birth: papua new guinea_change,
+377,birth: australia_change,
+378,birth: malaysia_change,
+379,birth: country of birth not stated_change,
+380,birth: indonesia_change,
+381,birth: egypt_change,
+382,birth: afghanistan age_change,
+383,birth: thailand_change,
+384,birth: ireland_change,
+385,birth: hong kong sar of china_change,
+386,birth: nepal_change,
+387,birth: north macedonia_change,
+388,birth: england_change,
+389,birth: chile_change,
+390,birth: fiji_change,
+391,birth: taiwan_change,
+392,birth: japan_change,
+393,birth: malta_change,
+394,birth: scotland_change,
+395,birth: china excludes sars and taiwan_change,
+396,birth: poland_change,
+397,birth: singapore_change,
+398,birth: south africa_change,
+399,birth: greece_change,
+400,birth: pakistan_change,
+401,birth: iraq_change,
+402,birth: mauritius_change,
+403,birth: samoa_change,
+404,birth: sri lanka_change,
+405,birth: india_change,
+406,birth: philippines_change,
+407,birth: vietnam_change,
+408,birth: new zealand_change,
+409,birth: iran_change,
+410,birth: lebanon_change,
+411,birth: france_change,
+412,birth: total_change,
+413,birth: netherlands_change,
+414,birth: myanmar_change,
+415,birth: united states of america_change,
+416,birth: bosnia and herzegovina_change,
+417,birth: zimbabwe_change,
+418,birth: bangladesh_change,
+419,birth: turkey_change,
+420,birth: canada_change,
+421,birth: korea republic of south_change,
+422,birth: cambodia_change,
+423,birth: born elsewhere_change,
+424,birth: italy_change,
+425,birth: croatia_change,
+426,birth: germany_change,
+427,studying: primary other_change,
+428,studying: tertiary FT 14-25_change,
+429,studying: tertiary FT 25+_change,
+430,studying: primary total_change,
+431,studying: tertiary PT 14-25_change,
+432,studying: tertiary PT 25+_change,
+433,studying: tafe total_change,
+434,studying: primary government_change,
+435,studying: secondary catholic_change,
+436,studying: preschool_change,
+437,studying: primary catholic_change,
+438,studying: secondary government_change,
+439,studying: secondary total_change,
+440,studying: tertiary total_change,
+441,overseas: 5 years_change,
+442,relationships: child under 15_change,
+443,relationships: defacto_change,
+444,relationships: other related individual_change,
+445,relationships: non dependent child_change,
+446,relationships: lone persons_change,
+447,relationships: group household_change,
+448,relationships: married_change,
+449,relationships: dependent student_change,
+450,relationships: lone parents_change,
+477,b60_bribery_pc_change,
+486,economic: gdp quarterly_pc_change,

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_52d395419c3721c9c622ac8168a8995f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_52d395419c3721c9c622ac8168a8995f" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_52d395419c3721c9c622ac8168a8995f = L.map(
+                "map_52d395419c3721c9c622ac8168a8995f",
+                {
+                    center: [-37.8136, 144.9631],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_98fd76c6f85a9d5dc3d1f96641e84e14 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_52d395419c3721c9c622ac8168a8995f);
+        
+    
+            var marker_0457792f8bbe66c761c7d8371178d051 = L.marker(
+                [-37.74, 144.666],
+                {}
+            ).addTo(map_52d395419c3721c9c622ac8168a8995f);
+        
+    
+        var popup_a693b91633e2b7ea2beafc9122d07328 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_83e7082494e87f0f4bb5c906611c0e94 = $(`<div id="html_83e7082494e87f0f4bb5c906611c0e94" style="width: 100.0%; height: 100.0%;">Rockbank - Mount Cottrell (up by 4300 people)</div>`)[0];
+                popup_a693b91633e2b7ea2beafc9122d07328.setContent(html_83e7082494e87f0f4bb5c906611c0e94);
+            
+        
+
+        marker_0457792f8bbe66c761c7d8371178d051.bindPopup(popup_a693b91633e2b7ea2beafc9122d07328)
+        ;
+
+        
+    
+    
+            var marker_b37d5cd22717080e94bf29a3665c43b1 = L.marker(
+                [-37.702, 144.742],
+                {}
+            ).addTo(map_52d395419c3721c9c622ac8168a8995f);
+        
+    
+        var popup_89cedb5aa0cb8c134f119bd6c2022f70 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_be39f58cba80f69acc92f4ef05553d96 = $(`<div id="html_be39f58cba80f69acc92f4ef05553d96" style="width: 100.0%; height: 100.0%;">Fraser Rise - Plumpton (up by 3400 people)</div>`)[0];
+                popup_89cedb5aa0cb8c134f119bd6c2022f70.setContent(html_be39f58cba80f69acc92f4ef05553d96);
+            
+        
+
+        marker_b37d5cd22717080e94bf29a3665c43b1.bindPopup(popup_89cedb5aa0cb8c134f119bd6c2022f70)
+        ;
+
+        
+    
+    
+            var marker_691402c5b300bad66c74242627c0aa6a = L.marker(
+                [-37.56, 144.89],
+                {}
+            ).addTo(map_52d395419c3721c9c622ac8168a8995f);
+        
+    
+        var popup_d5e4c1874812dfdf3840deb6b0e53689 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_81804a1dd00ba8e60ee534863f6eb911 = $(`<div id="html_81804a1dd00ba8e60ee534863f6eb911" style="width: 100.0%; height: 100.0%;">Mickleham - Yuroke (up by 3400 people)</div>`)[0];
+                popup_d5e4c1874812dfdf3840deb6b0e53689.setContent(html_81804a1dd00ba8e60ee534863f6eb911);
+            
+        
+
+        marker_691402c5b300bad66c74242627c0aa6a.bindPopup(popup_d5e4c1874812dfdf3840deb6b0e53689)
+        ;
+
+        
+    
+    
+            var marker_22b6d4b3709c102fff4efa96b4b84756 = L.marker(
+                [-37.8136, 144.9631],
+                {}
+            ).addTo(map_52d395419c3721c9c622ac8168a8995f);
+        
+    
+            var icon_2d0eba0f2e54e526edb6d0e1847f2279 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_22b6d4b3709c102fff4efa96b4b84756.setIcon(icon_2d0eba0f2e54e526edb6d0e1847f2279);
+        
+    
+        var popup_9e2e511ca336adde29b7afa9cb5799cb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d0a226aa0fa3a1de3dd59161c2dfe596 = $(`<div id="html_d0a226aa0fa3a1de3dd59161c2dfe596" style="width: 100.0%; height: 100.0%;">Greater Melbourne (increased by 167,500 people, 3.3%)</div>`)[0];
+                popup_9e2e511ca336adde29b7afa9cb5799cb.setContent(html_d0a226aa0fa3a1de3dd59161c2dfe596);
+            
+        
+
+        marker_22b6d4b3709c102fff4efa96b4b84756.bindPopup(popup_9e2e511ca336adde29b7afa9cb5799cb)
+        ;
+
+        
+    
+</script>
+</html>
